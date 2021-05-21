@@ -1,8 +1,8 @@
 const config = {
   // bot settings
-  bot_token: 'YOUR_BOT_TOKEN', // support bot token
-  staffchat_id: 'SUPERGROUP_CHAT_ID', // eg. -123456789
-  owner_id: 'YOUR_TELEGRAM_ID',
+  bot_token: '1893230879:AAHs9pUyxmXwIx1Ifw4F3Imx1brqGzYzdfk', // support bot token
+  staffchat_id: '-561069281', // eg. -123456789
+  owner_id: '410627758',
   spam_time: 5 * 60 * 1000, // time (in MS) in which user may send 5 messages
   allow_private: false, // Allow / disallow option for staff to chat privately
   auto_close_tickets: true,
